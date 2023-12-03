@@ -1,0 +1,36 @@
+.container2{
+    display: flex;
+    margin-top: 20px;
+}
+fieldset{
+    width: 300px;
+    height: 200px;
+    margin-left: 100px;
+    border-radius: 10px;
+    border: 10px  white solid;
+}
+fieldset img{
+    width: 300px;
+    height: 200px;
+}
+legend{
+    color: white;
+    font-size: 15px;
+    text-shadow: 2px 2px 3px purple;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.leaders h1{
+    color: white;
+    margin-left: 38%;
+}
+
+.leaders h2{
+    color: white;
+    font-size: 20PX;
+    margin-left: 40%;
+}
+progress{
+    margin-left: 40%;
+    height: 10px;
+    width: 20%;
+}
